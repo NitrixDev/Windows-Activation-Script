@@ -48,7 +48,7 @@ To run the scripts in unattended mode, check [here]
 
 ```
 Latest Version: 2.6
-Release date: 20-Apr-2024
+Release date: 20-July-2024
 ```
 
 ---
