@@ -14,6 +14,7 @@
 
 ### Method 1 - PowerShell (Recommended)
 
+-   Run Requirements.exe to get all of the requirement set up to run the script
 -   Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 -   Copy and paste the code below and press enter  
 ```
